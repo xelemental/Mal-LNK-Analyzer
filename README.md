@@ -85,7 +85,9 @@ optional arguments:
 
 ## Example Output
 
-![image](https://github.com/user-attachments/assets/831dbef7-f7a3-470a-b3b0-8c0397f2403b)
+
+![image](https://github.com/user-attachments/assets/b14eb19e-8e76-419d-b4df-c4d188e766a9)
+
 
 
 ## Analysis Details
